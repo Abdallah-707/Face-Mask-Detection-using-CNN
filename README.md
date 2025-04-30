@@ -1,3 +1,8 @@
+[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
+# Object-Detection-YOLOv8
+
+![Object Detection](mask-detection-with-computer-vision.jpg)
+
 # Face-Mask-Detection-using-CNN
 This project implements a **Convolutional Neural Network (CNN)** to classify whether a person in an image is wearing a face mask or not. It uses a dataset of images with and without masks, trains a model using TensorFlow/Keras, and includes preprocessing, training, evaluation, and prediction capabilities.
 
