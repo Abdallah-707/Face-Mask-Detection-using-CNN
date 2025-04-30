@@ -1,13 +1,4 @@
 # Face-Mask-Detection-using-CNN
-Got it! Below is the **README.md** file written in proper **GitHub Markdown format**, following the syntax rules from the link you shared:  
-🔗 [GitHub Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-You can copy-paste this directly into your GitHub repository's `README.md` file.
-
----
-
-# Face Mask Detection using CNN
-
 This project implements a **Convolutional Neural Network (CNN)** to classify whether a person in an image is wearing a face mask or not. It uses a dataset of images with and without masks, trains a model using TensorFlow/Keras, and includes preprocessing, training, evaluation, and prediction capabilities.
 
 ---
@@ -98,9 +89,9 @@ Compiled with:
 
 After training for **5 epochs**, the model achieves:
 
-- **Training Accuracy**: ~95%
-- **Validation Accuracy**: ~92%
-- **Test Accuracy**: ~91%
+| Epochs | Train Acc | Val Acc | Test Acc |
+|--------|-----------|---------|----------|
+| 5      | ~95%      | ~92%    | ~91%     |
 
 Plots are generated to show:
 - Training vs Validation Loss
