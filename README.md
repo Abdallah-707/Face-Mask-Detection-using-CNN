@@ -74,8 +74,8 @@ Compiled with:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Face-Mask-Detection.git
-   cd Face-Mask-Detection
+   git clone https://github.com/Abdallah-707/Face-Mask-Detection-using-CNN.git
+   cd Face-Mask-Detection-using-CNN
    ```
 
 2. Install required packages:
